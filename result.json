@@ -1,0 +1,286 @@
+{
+  "@context": "/contexts/ProfessionnelDeSante",
+  "@id": "/professionnel_de_santes",
+  "@type": "hydra:Collection",
+  "hydra:member": [
+    {
+      "id": 4096,
+      "prenom": "CLAUDE",
+      "nom": "MIROITE-FERLY",
+      "libelleCommune": "Basse-Terre",
+      "identificationNationalePP": "810000007962",
+      "libelleSavoirFaire": "Qualifié en Médecine Générale",
+      "libelleProfession": "Médecin",
+      "numeroVoie": null,
+      "libelleVoie": "DU GOUV. GENERAL FELIX EBOU",
+      "libelleTypeVoie": "Boulevard",
+      "bureauCedex": "97100 BASSE TERRE",
+      "codePostal": "97100",
+      "finess": "970112439"
+    },
+    {
+      "id": 4097,
+      "prenom": "LUCIEN",
+      "nom": "LACAVE",
+      "libelleCommune": "Capesterre-Belle-Eau",
+      "identificationNationalePP": "810000012483",
+      "libelleSavoirFaire": "Spécialiste en Médecine Générale",
+      "libelleProfession": "Médecin",
+      "numeroVoie": null,
+      "libelleVoie": null,
+      "libelleTypeVoie": null,
+      "bureauCedex": "97130 CAPESTERRE BELLE EAU",
+      "codePostal": "97130",
+      "finess": null
+    },
+    {
+      "id": 4104,
+      "prenom": "ISABELLE",
+      "nom": "GUESDON",
+      "libelleCommune": "Saint-André-lez-Lille",
+      "identificationNationalePP": "810000034487",
+      "libelleSavoirFaire": "Psychiatrie",
+      "libelleProfession": "Médecin",
+      "numeroVoie": "1",
+      "libelleVoie": "DE LOMMELET",
+      "libelleTypeVoie": "Rue",
+      "bureauCedex": "59871 ST ANDRE CEDEX",
+      "codePostal": "59871",
+      "finess": "590001418"
+    },
+    {
+      "id": 4113,
+      "prenom": "FRANCOISE",
+      "nom": "MELLERIO",
+      "libelleCommune": null,
+      "identificationNationalePP": "810000084516",
+      "libelleSavoirFaire": "Qualifié en Médecine Générale",
+      "libelleProfession": "Médecin",
+      "numeroVoie": null,
+      "libelleVoie": null,
+      "libelleTypeVoie": null,
+      "bureauCedex": null,
+      "codePostal": null,
+      "finess": null
+    },
+    {
+      "id": 4119,
+      "prenom": "FRANCOISE",
+      "nom": "PAVY",
+      "libelleCommune": null,
+      "identificationNationalePP": "810000108083",
+      "libelleSavoirFaire": "Médecine Générale",
+      "libelleProfession": "Médecin",
+      "numeroVoie": null,
+      "libelleVoie": null,
+      "libelleTypeVoie": null,
+      "bureauCedex": null,
+      "codePostal": null,
+      "finess": null
+    },
+    {
+      "id": 4122,
+      "prenom": "CLAUDE",
+      "nom": "NGO NGOC",
+      "libelleCommune": null,
+      "identificationNationalePP": "810000122498",
+      "libelleSavoirFaire": "Neuro-psychiatrie",
+      "libelleProfession": "Médecin",
+      "numeroVoie": null,
+      "libelleVoie": null,
+      "libelleTypeVoie": null,
+      "bureauCedex": null,
+      "codePostal": null,
+      "finess": null
+    },
+    {
+      "id": 4126,
+      "prenom": "JEAN-PAUL",
+      "nom": "BELLIARD",
+      "libelleCommune": "Paris",
+      "identificationNationalePP": "810000150663",
+      "libelleSavoirFaire": "Cardiologie et maladies vasculaires",
+      "libelleProfession": "Médecin",
+      "numeroVoie": "59",
+      "libelleVoie": "RUE GEOFFROY SAINT HILAIRE",
+      "libelleTypeVoie": null,
+      "bureauCedex": "75005 PARIS",
+      "codePostal": "75005",
+      "finess": null
+    },
+    {
+      "id": 4129,
+      "prenom": "PAUL",
+      "nom": "MESSERSCHMITT",
+      "libelleCommune": null,
+      "identificationNationalePP": "810000153337",
+      "libelleSavoirFaire": "Psychiatrie option enfant & adolescent",
+      "libelleProfession": "Médecin",
+      "numeroVoie": null,
+      "libelleVoie": null,
+      "libelleTypeVoie": null,
+      "bureauCedex": null,
+      "codePostal": null,
+      "finess": null
+    },
+    {
+      "id": 4133,
+      "prenom": "MATHILDE",
+      "nom": "NURBEL",
+      "libelleCommune": null,
+      "identificationNationalePP": "810000162650",
+      "libelleSavoirFaire": "Médecine du travail",
+      "libelleProfession": "Médecin",
+      "numeroVoie": null,
+      "libelleVoie": null,
+      "libelleTypeVoie": null,
+      "bureauCedex": null,
+      "codePostal": null,
+      "finess": null
+    },
+    {
+      "id": 4138,
+      "prenom": "MURIEL",
+      "nom": "GEOFFROY",
+      "libelleCommune": "Paris",
+      "identificationNationalePP": "810000177096",
+      "libelleSavoirFaire": "Ophtalmologie",
+      "libelleProfession": "Médecin",
+      "numeroVoie": "8",
+      "libelleVoie": "RUE BALZAC",
+      "libelleTypeVoie": null,
+      "bureauCedex": "75008 PARIS",
+      "codePostal": "75008",
+      "finess": null
+    }
+  ],
+  "hydra:totalItems": 422930,
+  "hydra:view": {
+    "@id": "/professionnel_de_santes?libelleProfession%5B%5D=M%C3%A9decin&page=1",
+    "@type": "hydra:PartialCollectionView",
+    "hydra:first": "/professionnel_de_santes?libelleProfession%5B%5D=M%C3%A9decin&page=1",
+    "hydra:last": "/professionnel_de_santes?libelleProfession%5B%5D=M%C3%A9decin&page=42293",
+    "hydra:next": "/professionnel_de_santes?libelleProfession%5B%5D=M%C3%A9decin&page=2"
+  },
+  "hydra:search": {
+    "@type": "hydra:IriTemplate",
+    "hydra:template": "/professionnel_de_santes{?prenom,nom,siret,siret[],siren,siren[],libelleProfession,finess,libelleCommune,libelleDepartement,libelleSavoirFaire,libelleSavoirFaire[],identifiantPP,identifiantPP[],email,codeDepartement,identificationNationalePP,identificationNationalePP[],order[id]}",
+    "hydra:variableRepresentation": "BasicRepresentation",
+    "hydra:mapping": [
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "prenom",
+        "property": "prenom",
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "nom",
+        "property": "nom",
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "siret",
+        "property": "siret",
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "siret[]",
+        "property": "siret",
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "siren",
+        "property": "siren",
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "siren[]",
+        "property": "siren",
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "libelleProfession",
+        "property": "libelleProfession",
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "finess",
+        "property": "finess",
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "libelleCommune",
+        "property": "libelleCommune",
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "libelleDepartement",
+        "property": "libelleDepartement",
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "libelleSavoirFaire",
+        "property": "libelleSavoirFaire",
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "libelleSavoirFaire[]",
+        "property": "libelleSavoirFaire",
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "identifiantPP",
+        "property": "identifiantPP",
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "identifiantPP[]",
+        "property": "identifiantPP",
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "email",
+        "property": "email",
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "codeDepartement",
+        "property": "codeDepartement",
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "identificationNationalePP",
+        "property": "identificationNationalePP",
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "identificationNationalePP[]",
+        "property": "identificationNationalePP",
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "order[id]",
+        "property": "id",
+        "required": false
+      }
+    ]
+  }
+}
